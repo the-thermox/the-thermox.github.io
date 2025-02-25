@@ -248,8 +248,8 @@ a.button:hover {
   text-decoration: none;
   font-weight: 600;
   cursor: default;
-  transition: 0.3s;
   margin-top: 10px;
+  transition: 0.3s;
 }
 .navbar a {
   color: #fff;
@@ -259,11 +259,10 @@ a.button:hover {
   transition: 0.3s;
 }
 .logo:hover{
-  color: #6dddff;
   font-size: 200%;
 }
 .navbar a:hover {
-  color: #6dddff;
+  font-weight: bolder;
   font-size: 200%;
 }
 #menu-icon {
